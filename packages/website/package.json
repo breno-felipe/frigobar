@@ -1,0 +1,32 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "description": "Frigobar documentation website",
+  "keywords": [
+    "frigobar",
+    "react",
+    "components",
+    "styled-components"
+  ],
+  "author": "Allysson Santos <aallysson0@gmail.com>",
+  "homepage": "https://allysson.me/frigobar",
+  "license": "MIT",
+  "main": "lib/website.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyssonsantos/frigobar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/allyssonsantos/frigobar/issues"
+  }
+}
