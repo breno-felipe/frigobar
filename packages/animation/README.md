@@ -149,7 +149,7 @@ The target component will be enhanced with some new props:
 <!-- prettier-ignore -->
 | **prop** | **description** | **type** | **default value** |
 | ------------- | --------------- | ----------------- | ---- |
-| fadeDuration | the duration of every single flash, it is a `ms` value | `number` | `300` |
+| flashDuration | the duration of every single flash, it is a `ms` value | `number` | `300` |
 | flashStart | condition to start the flashing | `bool` | `true` |
 | flashTimes | Specify how many times it will flash | `number` | `2` |
 | flashInfinity | make the flashing never stop! | `bool` | `false` |
